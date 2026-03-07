@@ -4,7 +4,7 @@ This repo contains code for [Data-to-Text Generation with Content Selection and 
 
 **Update:** For a model with better relation generation precision (RG P%) and other metrics, please see the [macro planning repository](https://github.com/ratishsp/data2text-macro-plan-py) and the corresponding [TACL 2021 paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00381/101876/Data-to-text-Generation-with-Macro-Planning).
 
-## Citations
+## Citations data_2026
 ```
 @inproceedings{DBLP:conf/aaai/Puduppully0L19,
   author    = {Ratish Puduppully and
