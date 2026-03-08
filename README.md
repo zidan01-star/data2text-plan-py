@@ -117,5 +117,5 @@ Command to compute BLEU score:
 ```
 
 ## IE models
-For training the IE models, follow the updated code in https://github.com/ratishsp/data2text-1 which contains bug fixes for number handling. The repo contains the downloadable links for IE models too.
+For training the IE models, follow the updated code in https://github.com/ratishsp/data2text-1 which contains bug fixes for number handling. The repo contains the downloadable links for IE models too. data ini ram 4 gb max
 
